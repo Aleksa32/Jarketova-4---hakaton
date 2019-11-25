@@ -1,0 +1,223 @@
+.meni{
+	width: 1700px;
+	height: 100px;
+	list-style-type: none;
+	overflow: none;
+	margin-top: 10px;
+	position: absolute;
+    left: 130px;
+	
+}
+
+.onama{
+    float: left;
+	font-size: 18px;
+	font-family: Tahoma;
+}
+
+.onama a{
+    display: inline-block;
+	padding: 50px 180px;
+	color: white;
+	background: #969692;
+	text-decoration: none;
+	text-align: center;
+}
+
+.kontakt{
+    float: left;
+	font-size: 18px;
+	font-family: Tahoma;
+}
+
+.kontakt a{
+    display: inline-block;
+	padding: 50px 180px;
+	color: white;
+	background: #5e5e5c;
+	text-decoration: none;
+	text-align: center;
+}
+
+.logout{
+    float: left;
+	font-size: 18px;
+	font-family: Tahoma;
+}
+
+.logout a{
+    display: inline-block;
+	padding: 50px 180px;
+	color: white;
+	background: #cece33;
+	text-decoration: none;
+	text-align: center;
+}
+
+.pocetna{
+	float: left;
+	font-size: 18px;
+	font-family: Tahoma;
+}
+.pocetna a{
+	
+	display: inline-block;
+	padding: 50px 180px;
+	color: white;
+	background: rgb(221, 143, 41);
+	text-decoration: none;
+	text-align: center;
+}
+
+.onama a:hover, .kontakt a:hover, .logout a:hover, .pocetna a:hover{
+    background-color: #da5c09;
+}
+
+.logo{
+	list-style-type: none;
+	overflow: none;
+	position: fixed;
+    position: absolute; top: 0px; left: 0px;
+    margin-left: -40px;
+    margin-top: -4px;
+	
+	
+}
+
+.maliLogo{
+	position: fixed;
+	float: left;
+	padding-top: 0px;
+}
+         
+.maliLogo a:hover{
+	
+	position: fixed;
+	
+}
+.j4{
+    font-size: 30px;
+    position: absolute;
+    top: 180px;
+    margin-left: 200px;
+    background-color: #5e5e5c;
+    width: 1600px;
+    height: 90px;
+    font-style: Tahoma;
+    margin-top: -20px;
+    border-bottom: 5px solid rgb(37, 37, 37);
+    text-decoration: underline;
+    
+}
+
+.textj4{
+    margin-left: 20px;
+}
+
+.text4{
+    font-size: 30px;
+    position: absolute;
+    top: 180px;
+    margin-left: 0px;
+    background-color: #969692;
+    width: 1600px;
+    height: 100px;
+    font-style: Tahoma;
+    margin-top: -85px;
+}
+
+.j5{
+	font-size: 30px;
+    position: absolute;
+    top: 375px;
+    margin-left: 200px;
+    background-color: #5e5e5c;
+    width: 1600px;
+    height: 90px;
+    font-style: Tahoma;
+    margin-top: 0px;
+    border-bottom: 5px solid rgb(37, 37, 37);
+    text-decoration: underline;
+
+}
+
+.textj5{
+	margin-left: 20px;
+}
+
+.text5{
+	font-size: 30px;
+    position: absolute;
+    top: 180px;
+    margin-left: 0px;
+    background-color: #969692;
+    width: 1600px;
+    height: 100px;
+    font-style: Tahoma;
+    margin-top: -85px;
+}
+
+.j6{
+	font-size: 30px;
+    position: absolute;
+    top: 570px;
+    margin-left: 200px;
+    background-color: #5e5e5c;
+    width: 1600px;
+    height: 90px;
+    font-style: Tahoma;
+    margin-top: 20px;
+    border-bottom: 5px solid rgb(37, 37, 37);
+    text-decoration: underline;
+}
+
+.textj6{
+	margin-left: 20px;
+}
+
+.text6{
+	font-size: 30px;
+    position: absolute;
+    top: 180px;
+    margin-left: 0px;
+    background-color: #969692;
+    width: 1600px;
+    height: 100px;
+    font-style: Tahoma;
+    margin-top: -85px;
+}
+
+.j7{
+	font-size: 30px;
+    position: absolute;
+    top: 570px;
+    margin-left: 200px;
+    background-color: #5e5e5c;
+    width: 1600px;
+    height: 90px;
+    font-style: Tahoma;
+    margin-top: 235px;
+    border-bottom: 5px solid rgb(37, 37, 37);
+    text-decoration: underline;
+}
+
+.textj7{
+	margin-left: 20px;
+}
+
+.text7{
+	font-size: 30px;
+    position: absolute;
+    top: 180px;
+    margin-left: 0px;
+    background-color: #969692;
+    width: 1600px;
+    height: 100px;
+    font-style: Tahoma;
+    margin-top: -85px;
+}
+
+body{
+    background-image: url(alibolja.jpg);
+    background-size:100% 100000%;
+}
